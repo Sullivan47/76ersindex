@@ -1,0 +1,56 @@
+
+h1 { font-size: 45px;
+
+
+                    }
+
+
+h2 { font-size: 35px;
+
+                    }
+
+
+
+h3 {font-size: 35px;
+
+
+                  }
+
+h4 { font-size: 35px;
+
+
+                  }
+
+h5 { font-size: 35px;}
+
+
+p {padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+
+                          }
+
+    img {
+      padding: 5px;
+                      }
+
+
+
+
+                      #nav {
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        width: 100%;
+                        height: 0;
+                      }
+                      #nav ul {
+                         postion: absolute;
+                         bottom: 0;
+                         right: 0;
+                      }
+
+        body {  background-color: grey;
+          
+
+        }
